@@ -9,12 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "next": "latest"
+    "react-icons": "^4.11.0",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "eslint": "latest",
-    "eslint-config-next": "latest"
+    "eslint-config-next": "latest",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3"
   }
 }

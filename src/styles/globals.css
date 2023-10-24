@@ -1,0 +1,66 @@
+:root {
+    --darkBlue: #164280;
+    --fadedDarkBlue: rgba(22, 66, 128, .15);
+    --fadedLightBlue: rgba(182, 216, 239, .2);
+    --blue: #5687b8;
+    --lightBlue: #b6d8ef;
+    --purple: #6e56b8;
+    --pink: #b8566e;
+    --white: #FFFFFF;
+    --black: #000000;
+    --translucentGrey: rgba(128, 128, 128, .075);
+    --transition1: .15s all;
+    --borderRadius1: 2px;
+    --desktopWidth: 1080px;
+    --tabletWidth: 768px;
+    --boxShadow1: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+
+html,
+body {
+    font-family: 'roboto';
+    padding: 0;
+    margin: 0;
+    font-weight: 400;
+}
+
+body {
+    background-image: url('/images/background.png');
+    background-size: 16rem;
+    background-repeat: repeat;
+}
+
+ol {
+    counter-reset: item;
+}
+
+
+ol>li {
+    margin: 0;
+    padding: 0 0 1rem 3rem;
+    text-indent: -2.25rem;
+    list-style-type: none;
+    counter-increment: item;
+    line-height: 1.5rem;
+}
+
+ol>li:before {
+    display: inline-block;
+    width: 1.5em;
+    padding-right: 0.5em;
+    font-weight: bold;
+    text-align: right;
+    content: counter(item) ".";
+}
+
+p {
+    line-height: 1.625rem;
+    font-weight: 400;
+    margin: 0;
+}
+
+h2,
+h3,
+h4 {
+    font-weight: 500;
+}
