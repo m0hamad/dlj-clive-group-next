@@ -7,7 +7,7 @@ import Link from 'next/link'
 
 const ReactionMethodology = () => {
 
-    const { windowWidth } = useContext(AppContext)
+    const { windowWidth } = useContext(AppContext);
 
     return (
         <>
