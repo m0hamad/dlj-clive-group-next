@@ -1,7 +1,7 @@
 'use client'
 import React, { useContext } from 'react'
 import './reactionmethodology.css'
-import data from '/public/files/nps.json'
+import data from '/public/files/rm.json'
 import AppContext from '../../../context/AppContext'
 import Link from 'next/link'
 
