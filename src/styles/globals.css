@@ -37,7 +37,7 @@ ol {
 
 ol>li {
     margin: 0;
-    padding: 0 0 1rem 3rem;
+    padding: 0 0 1rem .75rem;
     text-indent: -2.25rem;
     list-style-type: none;
     counter-increment: item;

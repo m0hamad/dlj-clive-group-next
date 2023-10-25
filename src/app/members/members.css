@@ -35,6 +35,7 @@
     flex-wrap: wrap;
     justify-content: space-between;
     gap: .5rem;
+    margin: .5rem 0;
     box-sizing: border-box;
 }
 
@@ -46,8 +47,8 @@
     flex-wrap: nowrap;
     background-color: var(--translucentGrey);
     border-radius: var(--borderRadius1);
-    padding: 1rem;
-    gap: 1rem;
+    padding: .5rem;
+    gap: .75rem;
 }
 
 .member-img {
@@ -85,5 +86,9 @@
 
     .bio-ctr {
         flex: calc(100% - 1rem);
+    }
+
+    .member-img {
+        max-width: 9rem;
     }
 }

@@ -21,7 +21,7 @@ const Overview = () => {
             <br />
             <Link
                 className='overview-url'
-                href='/natural-product-synthesis'
+                href='overview/natural-product-synthesis'
                 onClick={() => window.scrollTo({ top: 0 })}
             >
                 <p>
@@ -36,7 +36,7 @@ const Overview = () => {
             <br />
             <Link
                 className='overview-url'
-                href='/reaction-methodology'
+                href='overview//reaction-methodology'
                 onClick={() => window.scrollTo({ top: 0 })}
             >
                 <p>
