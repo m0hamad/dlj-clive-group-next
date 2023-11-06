@@ -17,7 +17,7 @@ const Overview = () => {
             <br />
             <h3 className='overview-h4' >Research on Natural Product Synthesis</h3>
             <hr className='overview-hr' />
-            <p className='overview-p' >The Group has completed the total syntheses of a large number of very complicated targets. These compounds, many of which are shown below, represent significant challenges to synthetic chemistry, and the research has usually led to the discovery of useful general reagents and methods relevant to the construction of many other types of compounds.</p>
+            <p className='overview-p' >The Group has completed the total syntheses of a large number of very complicated targets. These compounds represent significant challenges to synthetic chemistry, and the research has usually led to the discovery of useful general reagents and methods relevant to the construction of many other types of compounds.</p>
             <br />
             <Link
                 className='overview-url'
@@ -53,7 +53,7 @@ const Overview = () => {
             <br />
             <h3 className='overview-h4' >Current Methodology</h3>
             <hr className='overview-hr' />
-            <p className='overview-p' >Several methodology projects are under investigation aimed mainly at inventing new methods for making carbon-carbon bonds and for assembly of very large bioactive peptides.</p>
+            <p className='overview-p' >Several methodology projects are under investigation aimed mainly at inventing new methods for making carbon-carbon bonds.</p>
         </>
     )
 }

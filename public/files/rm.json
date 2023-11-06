@@ -37,7 +37,7 @@
     },
     {
         "name": "Radical Cyclization with Retention of Functionality",
-        "text": "In classical radical cyclizations onto a double bond, functionality is lost as the double bond is replaced by a single bond, and so opportunities for further modifications are not available. We can avoid this restriction by using an O-trityl oxime as the double bond radical acceptor; the product retains a double bond."
+        "text": "In classical radical cyclizations onto a double bond, functionality is lost as the double bond is replaced by a single bond, and so opportunities for further modifications are not available. We can avoid this restriction by using an <i>O</i>-trityl oxime as the double bond radical acceptor; the product retains a double bond."
     },
     {
         "name": "Intramolecular Transfer of Aryl Groups",
@@ -61,7 +61,7 @@
     },
     {
         "name": "Formation of Piperazine-2,5-diones",
-        "text": "Piperazine-2,5-diones, which are important structural motifs in several medicines, are formed by Dieckmann cyclization of substructures of the type R3<b>CH</b><sub>2</sub>N(R<sup>1</sup>)C(O)-CH<sub>2</sub>N(R<sup>2</sup>)CO<sub>2</sub>Ph in which the terminal methylene (<b>CH</b><sub>2</sub>) that is adjacent to nitrogen closes onto the carbonyl group of the phenyl carbamate unit at the other end of the chain. The starting materials are easily assembled by standard acylation and oxidation processes."
+        "text": "Piperazine-2,5-diones, which are important structural motifs in several medicines, are formed by Dieckmann cyclization of substructures of the type R<sup>3</sup><b>CH</b><sub>2</sub>N(R<sup>1</sup>)C(O)-CH<sub>2</sub>N(R<sup>2</sup>)CO<sub>2</sub>Ph in which the terminal methylene (<b>CH</b><sub>2</sub>) that is adjacent to nitrogen closes onto the carbonyl group of the phenyl carbamate unit at the other end of the chain. The starting materials are easily assembled by standard acylation and oxidation processes."
     },
     {
         "name": "Synthesis of 1,3'-Bipyrroles",
@@ -76,15 +76,15 @@
         "text": "A new family of routes to substituted phenols has been developed. The sequence affords phenolic azides (ArN<sub>3</sub>), sulfides (ArSR, ArSAr'), selenides (ArSePh), alcohols [ArCH(OH)R], amino derivatives [ArCH(NHSO<sub>2</sub>-Ar')R], and 1,2-benzenediols. A complementary set of substitution patterns is obtained by DIBAL-H reduction or reaction with a Grignard reagent before aromatization; the latter process gives compounds in which the newly-introduced substituent is <i>meta</i> to the phenolic hydroxyl."
     },
     {
-        "name": "A Nucleophilic Protected H2S equivalent",
+        "name": "A Nucleophilic Protected H<sub>2</sub>S Equivalent",
         "text": "t-BuMe<sub>2</sub>SiOCH<sub>2</sub>SH is a nucleophilic reagent for introduction of a protected bivalent sulfur; this reagent is complementary to our electrophilic reagent p-Me-C<sub>6</sub>H<sub>4</sub>-SO<sub>2</sub>SCH<sub>2</sub>OSiMe<sub>2</sub>Bu-t. The thiol reacts with alkyl bromides to give protected thiols. The protecting group can be removed with Bu<sub>4</sub>NF."
     },
     {
         "name": "The Silicon Route to Cycloalkane-1.3-diones",
-        "text": "Conjugate addition of Me3SiMe2SiLi to cycloalk-2-en-1-ones, ketalization, Tamao-Fleming oxidation (Bu<sub>4</sub>NF, then H<sub>2</sub>O<sub>2</sub>, KHCO<sub>3</sub>), TPAP oxidation and acid hydrolysis generates 2-methyl cycloalkane-1,3-diones. Ketalization is needed in order to prevent addition of Me<sub>3</sub>Si- to the carbonyl. The pentamethyldisilanyl group has advantages over other silicon units that are used in Tamao-Fleming procedures."
+        "text": "Conjugate addition of Me<sub>3</sub>SiMe<sub>2</sub>SiLi to cycloalk-2-en-1-ones, ketalization, Tamao-Fleming oxidation (Bu<sub>4</sub>NF, then H<sub>2</sub>O<sub>2</sub>, KHCO<sub>3</sub>), TPAP oxidation and acid hydrolysis generates 2-methyl cycloalkane-1,3-diones. Ketalization is needed in order to prevent addition of Me<sub>3</sub>Si- to the carbonyl. The pentamethyldisilanyl group has advantages over other silicon units that are used in Tamao-Fleming procedures."
     },
     {
-        "name": "Radical decarboxylation route to hydrooxepine enol ethers",
+        "name": "Radical Decarboxylation Route to Hydrooxepine Enol Ethers",
         "text": "MPC1001 and related antibiotics contain a hydrogenated oxepine ring system. We have developed a mild approach to such compounds based on a photochemical decarboxylation. The starting enol ether esters are easily available. They readily undergo thiol addition and simultaneous deprotection of the carboxyl group. Formation of the Barton ester and exposure to daylight generates the oxepine system — all under very mild conditions suitable for synthesis of the MPC1001 antibiotic series."
     },
     {

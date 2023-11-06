@@ -36,8 +36,8 @@ const Publications = () => {
                         <li className='publication-li' style={{ listStylePosition: 'inside', }} key={idx}>
 
                             <span>
-                                {Title && <span dangerouslySetInnerHTML={{ __html: Title }} />}
-                                {Authors && `, ${Authors}`}
+                                {Title && <span lang='de' style={{ hyphens: 'auto' }} dangerouslySetInnerHTML={{ __html: Title }} />}
+                                {Authors && `${idx > 206 ? '.' : ','} ${Authors}`}
                                 {Publishers && <i> {Publishers}</i>}
                                 {Year && <b> {Year}</b>}
                                 {Volume && `, ${Volume}`}

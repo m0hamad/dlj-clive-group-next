@@ -34,7 +34,7 @@ const NaturalProductSynthesis = () => {
                                 className='row-img'
                                 src={`/images/naturalproductsynthesis/${idx + 1}.png`}
                                 alt={`${row.name} image`} />
-                            <p>{row.text}</p>
+                            <p dangerouslySetInnerHTML={{ __html: row.text }} />
                         </div>
                     </div>
                 )

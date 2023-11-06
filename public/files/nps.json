@@ -89,7 +89,7 @@
     },
     {
         "name": "Culpin",
-        "text": "Culpin is an acetylenic antibiotic. It was synthesized to illustrate the utility of a new method for making para-disubstituted benzene rings, which we had developed earlier. This method can be applied to halogen compounds, where more conventional palladium-based routes are inappropriate."
+        "text": "Culpin is an acetylenic antibiotic. It was synthesized to illustrate the utility of a new method for making <i>para</i>-disubstituted benzene rings, which we had developed earlier. This method can be applied to halogen compounds, where more conventional palladium-based routes are inappropriate."
     },
     {
         "name": "Bufotenine",
@@ -105,10 +105,10 @@
     },
     {
         "name": "(+)-Ipalbidine",
-        "text": "(+)-Ipalbidine, which was isolated from the seeds of Ipomoea alba L., is a non-addictive analgesic and also has anti-inflammatory properties. The seeds have long been used in the folk medicine of South China. Our synthesis was based on the very unusual 6-exo-trigonal radical cyclization of a β-amino radical."
+        "text": "(+)-Ipalbidine, which was isolated from the seeds of <i>Ipomoea alba</i> L., is a non-addictive analgesic and also has anti-inflammatory properties. The seeds have long been used in the folk medicine of South China. Our synthesis was based on the very unusual 6-exo-trigonal radical cyclization of a β-amino radical."
     },
     {
         "name": "Probable Anti-Obesity Vanilloid",
-        "text": "This phenol was isolated from the seeds of Grains of Paradise (Aframomum melegueta) which have long been used in folkloric medicine in West Africa. Extracts of the seeds have anti-obesity properties and are known to lower nisceral fat in humans. Our synthetic route provides adequate quantities for biological testing and gives access to analogs."
+        "text": "This phenol was isolated from the seeds of Grains of Paradise (<i>Aframomum melegueta</i>) which have long been used in folkloric medicine in West Africa. Extracts of the seeds have anti-obesity properties and are known to lower nisceral fat in humans. Our synthetic route provides adequate quantities for biological testing and gives access to analogs."
     }
 ]
