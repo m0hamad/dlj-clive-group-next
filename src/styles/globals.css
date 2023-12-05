@@ -24,11 +24,11 @@ body {
     font-weight: 400;
 }
 
-body {
+/* body {
     background-image: url('/images/background.png');
     background-size: 16rem;
     background-repeat: repeat;
-}
+} */
 
 ol {
     counter-reset: item;
