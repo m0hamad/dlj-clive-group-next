@@ -16,7 +16,7 @@ export default function Home() {
       <div
         style={{
           backgroundColor: '#164280',
-          borderRadius: '1rem',
+          borderRadius: '.5rem',
           display: 'flex',
           justifyContent: 'center',
           padding: '2rem',
