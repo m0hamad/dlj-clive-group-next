@@ -37,7 +37,7 @@ const Publications = () => {
 
                             <span>
                                 {Title && <span lang='de' style={{ hyphens: 'auto' }} dangerouslySetInnerHTML={{ __html: Title }} />}
-                                {Authors && `${idx > 206 ? '.' : ','} ${Authors}`}
+                                {Authors && `${idx > 205 ? '.' : ','} ${Authors}`}
                                 {Publishers && <i> {Publishers}</i>}
                                 {Year && <b> {Year}</b>}
                                 {Volume && `, ${Volume}`}
