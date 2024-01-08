@@ -32,18 +32,20 @@ const Publications = () => {
             <Banner text="Publications" />
             <div>
                 <ol className='publication-ol' >
-                    {data.map(({ Title, Authors, Publishers, Year, Volume, Pages, DOI }, idx) =>
+                    {data.map(({ Title, Authors, Publishers, Year, Volume, Pages, DOI, Extra }, idx) =>
                         <li className='publication-li' style={{ listStylePosition: 'inside', }} key={idx}>
 
                             <span>
                                 {Title && <span lang='de' style={{ hyphens: 'auto' }} dangerouslySetInnerHTML={{ __html: Title }} />}
-                                {Authors && `${idx > 205 ? '.' : ','} ${Authors}`}
+                                {/* {Authors && `${idx > 205 ? '.' : ','} ${Authors}`} */}
+                                {Authors && `, ${Authors}`}
                                 {Publishers && <i> {Publishers}</i>}
                                 {Year && <b> {Year}</b>}
-                                {Volume && `, ${Volume}`}
+                                {Volume && <span lang='de' style={{ hyphens: 'auto' }} dangerouslySetInnerHTML={{ __html: ', ' + Volume }} />}
                                 {Pages && `, ${Pages}`}
                                 {DOI && <><span> (</span><a className='doi-url' target='_blank' href={DOI}>DOI</a><span>)</span></>}
                                 .
+                                {Extra && <span lang='de' style={{ hyphens: 'auto' }} dangerouslySetInnerHTML={{ __html: ' ' + Extra }} />}
                             </span>
                             <div>
                                 <img

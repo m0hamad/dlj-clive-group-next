@@ -36,12 +36,12 @@ const Overview = () => {
             <br />
             <Link
                 className='overview-url'
-                href='overview//reaction-methodology'
+                href='overview/synthetic-methodology'
                 onClick={() => window.scrollTo({ top: 0 })}
             >
                 <p>
                     <BsArrowRightShort className='arrow-right' />
-                    Click here for more information on Reaction Methodology<BsArrowLeftShort className='arrow-left' />
+                    Click here for more information on Synthetic Methodology<BsArrowLeftShort className='arrow-left' />
                 </p>
                 <div className='url-underline' />
             </Link>

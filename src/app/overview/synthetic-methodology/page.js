@@ -1,11 +1,11 @@
 'use client'
 import React, { useContext } from 'react'
-import './reactionmethodology.css'
+import './syntheticmethodology.css'
 import data from '/public/files/rm.json'
 import AppContext from '../../../context/AppContext'
 import Link from 'next/link'
 
-const ReactionMethodology = () => {
+const Syntheticmethodology = () => {
 
     const { windowWidth } = useContext(AppContext)
 
@@ -29,7 +29,7 @@ const ReactionMethodology = () => {
                             className='rm-ctr-2'
                         >
                             {
-                                <img className='row-img' src={`/images/reactionmethodology/${idx + 1}.png`} alt={`${row.name} image`} />
+                                <img className='row-img' src={`/images/syntheticmethodology/${idx + 1}.png`} alt={`${row.name} image`} />
                             }
                             <p dangerouslySetInnerHTML={{ __html: row.text }} />
                         </div>
@@ -40,4 +40,4 @@ const ReactionMethodology = () => {
     )
 }
 
-export default ReactionMethodology
+export default Syntheticmethodology

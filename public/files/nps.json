@@ -9,7 +9,7 @@
     },
     {
         "name": "Canadian Beaver Scent Gland Component",
-        "text": "This indolizine alkaloid, isolated from the scent glands of the Canadian beaver, has no official trivial name; its synthesis introduced the very powerful strategy of tandem Diels-Alder cycloaddition and radical cyclization. This strategy makes the route very concise, and is convincing evidence for the power of the method."
+        "text": "This inolizidine alkaloid, isolated from the scent glands of the Canadian beaver, has no official trivial name; its synthesis introduced the very powerful strategy of tandem Diels-Alder cycloaddition and radical cyclization. This strategy makes the route very concise, and is convincing evidence for the power of the method."
     },
     {
         "name": "Fredericamycin A",
@@ -29,7 +29,7 @@
     },
     {
         "name": "D-<i>myo</i>-Inositol-1,4,5-triphosphate",
-        "text": "This triphosphate is a crucial component of the body's machinery for mobilizing calcium. Our synthetic route was based on a new ene reactions and also resulted in the discovery of an unusual reagent for reduction of cyclohexanones to equatorial alcohols where conventional reagents give the axial isomer."
+        "text": "This triphosphate is a crucial component of the body's machinery for mobilizing calcium. Our synthetic route was based on a new ene reaction and also resulted in the discovery of an unusual reagent for reduction of cyclohexanones to equatorial alcohols where conventional reagents give the axial isomer."
     },
     {
         "name": "Epibatidine",
@@ -37,7 +37,7 @@
     },
     {
         "name": "(-)-Calicheamicinone",
-        "text": "Calicheamicinone is the \"warhead\" of one of the most powerful antitumor agents known. Of the 18 carbons in calicheamicinone, 17 are functionalized or are involved in multiple bonding, and so the molecule poses enormous synthetic challenges. We have made both the racemic and optically pure material, and an X-ray structure of the latter was chosen to grace the cover of an issue of Chemical Communications."
+        "text": "Calicheamicinone is the \"warhead\" of one of the most powerful antitumor agents known. Of the 18 carbons in calicheamicinone, 17 are functionalized or are involved in multiple bonding, and so the molecule poses enormous synthetic challenges. We have made both the racemic and optically pure material, and an X-ray structure of the latter was chosen to grace the cover of an issue of <i>Chemical Communications</i>."
     },
     {
         "name": "Furanomycin",
@@ -45,7 +45,7 @@
     },
     {
         "name": "Methyl <i>epi</i>-Jasmonate",
-        "text": "The fragrance of jasmine is due largely to methyl epi-jasmonate. It was synthesized using sequential 5-exo-digonal and 5-endo-trigonal cyclizations. The latter process is normally forbidden, but we discovered circumstances where it occurs easily, and it has now become a more common procedure."
+        "text": "The fragrance of jasmine is due largely to methyl <i>epi</i>-jasmonate. It was synthesized using sequential 5-<i>exo</i>-digonal and 5-<i>endo</i>-trigonal cyclizations. The latter process is normally forbidden, but we discovered circumstances where it occurs easily, and it has now become a more common procedure."
     },
     {
         "name": "Brevioxime",
@@ -61,7 +61,7 @@
     },
     {
         "name": "Cladobotryal",
-        "text": "Cladobotryal is a fungal metabolite that inhibits the growth of plant pathogens, and is of interest to the agrochemical industry. The substance is also active against drug-resistant bacteria. Our synthetic route illustrates a new way of desaturating pyridinones and of deprotecting the important N-Boc group."
+        "text": "Cladobotryal is a fungal metabolite that inhibits the growth of plant pathogens, and is of interest to the agrochemical industry. The substance is also active against drug-resistant bacteria. Our synthetic route illustrates a new way of desaturating pyridinones and an unusual way of deprotecting the <i>N</i>-Boc group."
     },
     {
         "name": "(-)-Hamigeran B",
@@ -73,11 +73,11 @@
     },
     {
         "name": "(+)-Ottelione A",
-        "text": "Ottelione A is an exceptionally potent anticancer agent, which was isolated in minute amount from a freshwater plant, together with the trans ring-fused isomer ottelione B. Surprisingly, the substance resists aromatization in vitro, although the expected aromatized product was also isolated form the same plant. The compound was synthesized by using an unusual, but general, rearrangement of a cyclopropane to a vinyl group."
+        "text": "Ottelione A is an exceptionally potent anticancer agent, which was isolated in minute amount from a freshwater plant, together with the <i>trans</i> ring-fused isomer ottelione B. Surprisingly, the substance resists aromatization in vitro, although the expected aromatized product was also isolated from the same plant. The compound was synthesized by using an unusual, but general, rearrangement of a cyclopropane to a vinyl group."
     },
     {
         "name": "(-)-Ottelione B",
-        "text": "(-)-Ottelione B, obviously closely related to ottelione A, is also an impressively powerful anticancer agent. It appears to be more selective than ottelione A. The compound was also synthesized in racemic and optically pure form, by a route that can be diverted from a common intermediate into either ottelione B or A."
+        "text": "(-)-Ottelione B, obviously closely related to ottelione A, is also an impressively powerful anticancer agent. It appears to be more selective than ottelione A. The compound was synthesized in racemic and optically pure form, by a route that can be diverted from a common intermediate into either ottelione B or A."
     },
     {
         "name": "(-)-Conocarpan",
@@ -93,11 +93,11 @@
     },
     {
         "name": "Bufotenine",
-        "text": "Bufotenine is an alkaloid isolated from the skin of several species of toad. The synthesis was the outcome of a methodology project which provided a powerful route to hydroxy-substituted serotonins, which are of value in the study and treatment of brain disorders."
+        "text": "Bufotenine is an alkaloid isolated from the skin of several species of toad. The synthesis was the outcome of a methodology project which provided a powerful route to substituted serotonins, which are of value in the study and treatment of brain disorders."
     },
     {
         "name": "Halichlorine",
-        "text": "The marine alkaloid halichlorine inhibits the induction of vascular cell adhesion molecule 1, which is a property relevant to the study of inflammatory diseases and the spread of cancer cells. Our synthesis of this compound has led to the development of a number of very useful methodologies which are being studied in their own right."
+        "text": "The marine alkaloid halichlorine inhibits the induction of vascular cell adhesion molecule 1, which is a property relevant to the study of inflammatory diseases and the spread of cancer cells. Our synthesis of this compound has led to the development of a number of very useful methodologies which have been studied in their own right."
     },
     {
         "name": "Marinopyrrole B",
@@ -105,10 +105,10 @@
     },
     {
         "name": "(+)-Ipalbidine",
-        "text": "(+)-Ipalbidine, which was isolated from the seeds of <i>Ipomoea alba</i> L., is a non-addictive analgesic and also has anti-inflammatory properties. The seeds have long been used in the folk medicine of South China. Our synthesis was based on the very unusual 6-exo-trigonal radical cyclization of a β-amino radical."
+        "text": "(+)-Ipalbidine, which was isolated from the seeds of <i>Ipomoea alba</i> L., is a non-addictive analgesic and also has anti-inflammatory properties. The seeds have long been used in the folk medicine of South China. Our synthesis was based on the very unusual 6-<i>exo</i>-trigonal radical cyclization of a β-amino radical."
     },
     {
         "name": "Probable Anti-Obesity Vanilloid",
-        "text": "This phenol was isolated from the seeds of Grains of Paradise (<i>Aframomum melegueta</i>) which have long been used in folkloric medicine in West Africa. Extracts of the seeds have anti-obesity properties and are known to lower nisceral fat in humans. Our synthetic route provides adequate quantities for biological testing and gives access to analogs."
+        "text": "This phenol was isolated from the seeds of Grains of Paradise (<i>Aframomum melegueta</i>) which have long been used in folkloric medicine in West Africa. Extracts of the seeds have anti-obesity properties and are known to lower visceral fat in humans. Our synthetic route provides adequate quantities for biological testing and gives access to analogs."
     }
 ]

@@ -1,0 +1,9 @@
+.home-hr {
+    padding: 0;
+    margin: 1rem 0;
+    border: none;
+    height: 1px;
+    width: 100%;
+    border-radius: var(--borderRadius1);
+    background-color: var(--blue);
+}

@@ -14,7 +14,21 @@ const Members = () => {
             </div>
             <div className='bios-ctr' >
                 {
-                    data.map((member, idx) =>
+                    data.slice(0, 6).map((member, idx) =>
+                        <div className='bio-ctr' key={idx} >
+                            <img className='member-img' src={`./images/members/${idx + 1}.jpg`} alt={`${member.name} image`} />
+                            <div className='bio-text-ctr' >
+                                <p className='bio-name' >{member.name}</p>
+                                <p className='bio-text'>{member.bio}</p>
+                            </div>
+                        </div>
+                    )
+                }
+            </div>
+            <hr className='members-hr' />
+            <div className='bios-ctr' >
+                {
+                    data.slice(6).map((member, idx) =>
                         <div className='bio-ctr' key={idx} >
                             <img className='member-img' src={`./images/members/${idx + 1}.jpg`} alt={`${member.name} image`} />
                             <div className='bio-text-ctr' >

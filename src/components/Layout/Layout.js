@@ -9,13 +9,13 @@ import AppContext from '@/context/AppContext'
 const Layout = ({ children }) => {
 
     const { pathname } = useContext(AppContext)
-    console.log('pathname', pathname)
 
     return (
         <div
             className='layout'
             style={{
                 backgroundImage: pathname === '/' ? "url('/images/background-3.png')" : "url('/images/background.png')",
+                // backgroundImage: "url('/images/background.png')",
                 backgroundSize: '16rem',
                 backgroundRepeat: 'repeat'
             }}
