@@ -28,7 +28,8 @@ const Members = () => {
             <hr className='members-hr' />
             <div className='bios-ctr' >
                 {
-                    data.slice(6).map((member, idx) =>
+                    data.map((member, idx) =>
+                        idx >= 6 &&
                         <div className='bio-ctr' key={idx} >
                             <img className='member-img' src={`./images/members/${idx + 1}.jpg`} alt={`${member.name} image`} />
                             <div className='bio-text-ctr' >

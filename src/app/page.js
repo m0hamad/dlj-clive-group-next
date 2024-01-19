@@ -42,7 +42,7 @@ export default function Home() {
           fontSize: '2.5rem',
           lineHeight: '3rem',
           textAlign: "center"
-        }} >Insert Research groups focus here</p>
+        }} >Natural Product Synthesis & Synthetic Methodology</p>
       </div>
     </div >
   )

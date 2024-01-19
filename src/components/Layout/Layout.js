@@ -16,7 +16,7 @@ const Layout = ({ children }) => {
             style={{
                 backgroundImage: pathname === '/' ? "url('/images/background-3.png')" : "url('/images/background.png')",
                 // backgroundImage: "url('/images/background.png')",
-                backgroundSize: '16rem',
+                backgroundSize: '24rem',
                 backgroundRepeat: 'repeat'
             }}
         >
