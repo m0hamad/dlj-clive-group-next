@@ -12,7 +12,7 @@ export const LINKS = [
     { name: 'Libraries - University of Alberta', url: 'https://www.library.ualberta.ca/' },
     { name: 'NMR Homepage - AOVNMR', url: 'http://nmr.chem.ualberta.ca/index.html' },
     { name: 'NSERC', url: 'http://www.nserc.ca/' },
-    { name: 'Alberta Innovates - Technology Futures', url: 'https://innotechalberta.ca/' },
+    { name: 'Alberta Innovates', url: 'https://albertainnovates.ca/' },
 ]
 
 export const TABLET_WIDTH = 768;

@@ -46,7 +46,7 @@ const Overview = () => {
                 <div className='url-underline' />
             </Link>
             <br />
-            <h2 className='overview-h2' >Current Interests</h2>
+            <h2 className='overview-h2' >Current Research</h2>
             <h3 className='overview-h4' >Current Synthetic Targets</h3>
             <hr className='overview-hr' />
             <p className='overview-p' >Several Group Members are presently involved in the synthesis of some complex natural products having properties that make them relevant to the treatment of serious diseases. The synthesis of these compounds is likely to lead to the invention of new chemistry, as was the case with the targets already completed.</p>
